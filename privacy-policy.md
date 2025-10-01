@@ -130,9 +130,8 @@ We encourage you to review this Privacy Policy periodically for any changes.
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
 - **Developer**: Muhammad Arif Shabab
-- **Email**: [Your Email Address]
-- **App Package**: com.shabab.HabitTracker
-- **Privacy Policy URL**: [Your GitHub Pages URL]
+- **Email**: shabab.softwares@gmail.com
+- **Privacy Policy URL**: https://shababsoftwares.github.io/habittracker-privacy-policy/privacy-policy.html
 
 ## Compliance
 
