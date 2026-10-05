@@ -1,21 +1,38 @@
 # Privacy Policy for HabitTracker
 
-**Last updated: December 2024**
+**Last updated: October 5, 2026**
 
 ## Introduction
 
 Muhammad Arif Shabab ("we," "our," or "us") operates the HabitTracker mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
+HabitTracker does not require you to create an account or sign in. We do not operate a backend that stores your habits or your subscription. Habit data stays on your device. Optional premium subscriptions are sold and managed by Google Play Billing on Android.
+
 ## Information We Collect
 
-### Personal Information
+### No account
 
-- **Account Information**: When you create an account, we may collect your email address and username.
-- **Habit Data**: We store the habits you create, track, and manage within the app, including:
-  - Habit names and descriptions
-  - Completion status and dates
-  - Progress tracking data
-  - Goals and targets you set
+We do not ask you to register, sign in, or give us an email address or username to use the app. We do not create a user account for you.
+
+### Habit Data
+
+Habit data is stored only on your device, including:
+
+- Habit names and descriptions
+- Completion status and dates
+- Progress tracking data
+- Goals and targets you set
+
+### Subscriptions and purchases
+
+Premium is an optional auto-renewing subscription (monthly or yearly) that removes ads. It is available on Android through Google Play Billing. The app talks to Google Play on the device. We do not run our own billing server.
+
+- We do not collect or store your credit card number, bank account, billing address, or Google account password.
+- Google processes the payment and keeps the purchase and subscription record under the Google account signed in to the Play Store on the device.
+- The app asks Google Play Billing, on the device, whether that subscription is currently active. That check is what turns ads off.
+- The app may keep a short-lived copy of that status on the device (for example, whether premium is active, the plan, and when it was last checked) so ads stay off while the app confirms the status with Google Play. That copy is not uploaded to a server we operate.
+- Restoring a purchase uses the Google account already on the device. You do not create an account in HabitTracker to restore it.
+- You manage, change, or cancel the subscription in Google Play. We do not receive your payment details when you do that.
 
 ### Device Information
 
@@ -33,29 +50,29 @@ Muhammad Arif Shabab ("we," "our," or "us") operates the HabitTracker mobile app
 
 We use the collected information for various purposes:
 
-- **To provide and maintain our Service**: Including processing your habit tracking data and providing personalized features.
-- **To notify you about changes to our Service**: We may use your contact information to send you important updates about the app.
-- **To provide customer support**: We may use your information to respond to your inquiries and provide technical support.
+- **To provide and maintain our Service**: Including showing the habits you store on your device and unlocking premium when Google Play reports an active subscription.
+- **To provide customer support**: If you contact us, we use the information you send in that message to respond.
 - **To improve our Service**: We analyze usage patterns to enhance app performance and develop new features.
-- **To ensure security**: We use information to detect and prevent fraud, abuse, and other harmful activities.
+- **To ensure security**: We use information to detect and prevent fraud, abuse, and other harmful activities. Google Play also applies its own checks to purchases.
 
 ## Data Storage and Security
 
-### Local Storage
+### Local storage only
 
-- Your habit data is primarily stored locally on your device using secure storage mechanisms.
-- We use industry-standard encryption to protect your data when it's stored on your device.
+- Your habit data is stored on your device. We do not upload it to a server we operate, and the app does not sync it to a cloud account.
+- A local copy of your premium status, read from Google Play Billing, may also be stored on the device. It is not sent to us.
+- Uninstalling the app removes the habit data and the local premium cache stored by the app. Your Google Play subscription, if you have one, remains with Google until you cancel it in Google Play or it expires.
 
-### Cloud Storage (if applicable)
+### Subscriptions are not stored by us
 
-- If you choose to sync your data across devices, we may store your data on secure cloud servers.
-- All data transmission is encrypted using SSL/TLS protocols.
-- We implement appropriate technical and organizational measures to protect your personal information.
+- We do not keep a database of subscribers, purchase tokens, or payment records.
+- Google Play is the source of whether your subscription is active. The app reads that status on the device through Google Play Billing.
+- The same Google account on another Android device can restore the subscription through Google Play. HabitTracker itself has no login that carries a subscription between devices.
 
 ### Data Retention
 
-- We retain your personal information only for as long as necessary to provide our Service and fulfill the purposes outlined in this Privacy Policy.
-- You can delete your account and associated data at any time through the app settings.
+- Habit data stays on your device until you delete it in the app or uninstall the app.
+- Google retains purchase and subscription records according to Google's own policies. To cancel, use Google Play's subscription management. Refund requests are handled by Google Play.
 
 ## Information Sharing and Disclosure
 
@@ -63,11 +80,11 @@ We do not sell, trade, or otherwise transfer your personal information to third 
 
 ### Service Providers
 
-We may share your information with third-party service providers who assist us in:
+We may share information with third-party service providers who assist us in operating the app:
 
-- App analytics and crash reporting
-- Cloud storage and data synchronization
-- Customer support services
+- **Google Play Billing**: When you subscribe, the purchase is handled by Google on the device. Google receives the information needed to process and manage the subscription under the Google account on the device. We do not receive your payment card details.
+- **Advertising**: The free version shows ads through Google AdMob. An active premium subscription turns those ads off. AdMob may collect device and usage data as described in Google's policies. You can change ad consent choices in the app settings where that option is available.
+- **App analytics**: We may use analytics to understand how the app is used and to diagnose crashes.
 
 ### Legal Requirements
 
@@ -81,9 +98,10 @@ In the event of a merger, acquisition, or sale of assets, your information may b
 
 ### Access and Control
 
-- **View your data**: You can access all your habit data within the app.
-- **Export your data**: You can export your habit data in a readable format.
-- **Delete your data**: You can delete individual habits or your entire account.
+- **View your data**: You can access your habit data within the app.
+- **Export your data**: You can export the habit data stored on your device from the app. That export stays under your control. We do not receive a copy.
+- **Delete your data**: You can delete habits in the app. Uninstalling the app removes the data stored on that device. There is no account to delete.
+- **Subscription**: You can review, restore, or open Google Play's subscription page from the app. Canceling or requesting a refund is done through Google Play, not through an account in this app.
 
 ### Communication Preferences
 
@@ -98,6 +116,10 @@ In the event of a merger, acquisition, or sale of assets, your information may b
 ## Third-Party Services
 
 Our app may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to read their privacy policies before providing any personal information.
+
+### Google Play
+
+Subscriptions are processed by Google Play. Google's handling of your Google account and purchase information is described in the [Google Privacy Policy](https://policies.google.com/privacy) and the Google Play terms. We do not control Google's processing of that payment data.
 
 ### Analytics Services
 
@@ -130,8 +152,9 @@ We encourage you to review this Privacy Policy periodically for any changes.
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
 - **Developer**: Muhammad Arif Shabab
-- **Email**: shabab.softwares@gmail.com
-- **Privacy Policy URL**: https://shababsoftwares.github.io/habittracker-privacy-policy/privacy-policy.html
+- **Email**: [Your Email Address]
+- **App Package**: com.shabab.HabitTracker
+- **Privacy Policy URL**: [Your GitHub Pages URL]
 
 ## Compliance
 
